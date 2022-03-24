@@ -1,0 +1,12 @@
+﻿  player.cpp
+C:\Users\st\source\repos\Xonix\player.cpp(43,59): warning C4244: 'return': conversion from 'T' to 'size_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\st\source\repos\Xonix\player.cpp(44,60): warning C4244: 'return': conversion from 'T' to 'size_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Xonix.vcxproj -> C:\Users\st\source\repos\Xonix\Debug\Xonix.exe
